@@ -1,4 +1,4 @@
-# Como Mandar Emails Com o JavaMail - PT-BR
+# Como Mandar Emails Usando o JavaMail - PT-BR
 Código para enviar e-mails usando a API JavaMail 1.4.5
 
 * Download da API: https://www.oracle.com/java/technologies/javamail-releases.html
