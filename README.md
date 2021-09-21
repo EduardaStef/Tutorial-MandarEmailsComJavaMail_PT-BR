@@ -13,4 +13,8 @@ Código para enviar e-mails usando a API JavaMail 1.4.5
 ##
 
 ### SOBRE O JAVAMAIL 
+O JavaMail é uma API incível focada em manipulação de correio eletrônico. 
 
+##
+
+### FONTE: https://www.devmedia.com.br/enviando-email-com-javamail-utilizando-gmail/18034
