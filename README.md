@@ -1,4 +1,4 @@
-# Emails Com JavaMail - PT-BR
+# Como Mandar Emails Com o JavaMail - PT-BR
 Código para enviar e-mails usando a API JavaMail 1.4.5
 
 * Download da API: https://www.oracle.com/java/technologies/javamail-releases.html
@@ -6,6 +6,11 @@ Código para enviar e-mails usando a API JavaMail 1.4.5
 
 ##
 
-<b> IMPORTANTE: </b>
+###  IMPORTANTE: 
 * Para o código funcionar é necessário que o destinatário tenha uma conta no GMAIL.
 * Em caso de erro, usando a conta do google que será destinatária do e-mail, vá na aba "Gerenciar sua Conta no Google", então vá em "Segurança" e habilite o "Acesso a app menos Seguro".
+
+##
+
+### SOBRE O JAVAMAIL 
+
