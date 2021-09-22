@@ -1,4 +1,4 @@
-# Como Mandar Emails Usando o JavaMail - PT-BR
+# Como Mandar Emails Usando o JavaMail - PT-BR <img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1">
 Código para enviar e-mails usando a API JavaMail 1.4.5
 
 * Download da API: https://www.oracle.com/java/technologies/javamail-releases.html
