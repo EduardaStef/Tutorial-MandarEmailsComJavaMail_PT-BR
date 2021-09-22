@@ -16,6 +16,6 @@
 ### <img height="30" src="https://media.discordapp.net/attachments/767080390241812540/890047868143030282/tumblr_mfi0vlMZ3o1rfjowdo1_500.gif?width=305&height=369"> SOBRE O JAVAMAIL <img height="30" src="https://media.discordapp.net/attachments/767080390241812540/890047868143030282/tumblr_mfi0vlMZ3o1rfjowdo1_500.gif?width=305&height=369"> 
 O JavaMail é uma API incível focada em manipulação de correio eletrônico. 
 
-##
+## 
 
  ###  [FONTE](https://www.devmedia.com.br/enviando-email-com-javamail-utilizando-gmail/18034)
