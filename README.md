@@ -5,7 +5,7 @@
 * [Documentação da API](https://javaee.github.io/javamail/#API_Documentation)
 
 ##
- 
+
 ### <img height="30" src="https://media.discordapp.net/attachments/767080390241812540/890044341639327774/gboard-emoji-kitchen-different-colored-9-329x329.png?width=296&height=296"> IMPORTANTE <img height="30" src="https://media.discordapp.net/attachments/767080390241812540/890044341639327774/gboard-emoji-kitchen-different-colored-9-329x329.png?width=296&height=296">
 * Para o código funcionar é necessário que o destinatário tenha uma conta no GMAIL.
 * Em caso de erro, usando a conta do google que será destinatária do e-mail, vá na aba "Gerenciar sua Conta no Google", então vá em "Segurança" e habilite o "Acesso a app menos Seguro".
