@@ -33,6 +33,6 @@ O JavaMail é uma API incível focada em manipulação de correio eletrônico.
 
  ###  [FONTE](https://www.devmedia.com.br/enviando-email-com-javamail-utilizando-gmail/18034)
 
-![Energy](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)
+![Crayons](https://forthebadge.com/images/badges/made-with-crayons.svg)
  
  </div>
